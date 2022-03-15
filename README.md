@@ -1,2 +1,3 @@
 # Text-Classification
-Use of different algorithms to classify political party speeches
+Use of different algorithms to classify political party speeches.
+
